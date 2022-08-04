@@ -1,0 +1,42 @@
+[
+    {
+    "question": "You're 3rd place right now in a race. What place are you in when you pass the person in 2nd place?",
+    "choice1": "1st",
+    "choice2": "2nd",
+    "choice3": "3rd",
+    "choice4": "None of the above",
+    "answer": 1
+},
+{
+    "question": "How many 0.5cm slices of bread can you cut from a whole bread that's 25cm long? ",
+    "choice1": "1",
+    "choice2": "25",
+    "choice3": "39",
+    "choice4": "None of the above",
+    "answer": 1
+},
+{
+    "question": "Divide 30 by half and add ten.  ",
+    "choice1": "40.5",
+    "choice2": "50",
+    "choice3": "70",
+    "choice4": "I know this is a trick question, so NONE. Ha!",
+    "answer": 3
+},
+{
+    "question": "There are two clocks of different colors: The red clock is broken and doesn't run at all, but the blue clock loses one second every 24 hours. Which clock is more accurate?   ",
+    "choice1": "The red clock.",
+    "choice2": "The blue clock.",
+    "choice3": " Neither.",
+    "choice4": "Both",
+    "answer": 1
+},
+{
+    "question": "A farmer has 17 sheep, all of them but 8 die. How many sheep are still standing?    ",
+    "choice1": "8",
+    "choice2": "9",
+    "choice3": " 25",
+    "choice4": "35",
+    "answer": 1
+}
+]
